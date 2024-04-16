@@ -38,7 +38,7 @@ $$2 \cdot A + B = 2\times \begin{pmatrix} 1 & 2 \\\ 3 & 4 \end{pmatrix} + \begin
 
 6. Найдите сумму элементов главной диагонали у получившейся матрицы:
 
-$A \cdot B = \begin{pmatrix} 3 & 3 & -1 \end{pmatrix} \cdot \begin{pmatrix} 5 \\\ 0 \\\ 7 \end{pmatrix} = 8$
+$$A \cdot B = \begin{pmatrix} 3 & 3 & -1 \end{pmatrix} \cdot \begin{pmatrix} 5 \\\ 0 \\\ 7 \end{pmatrix} = 8$$
 
 - a. 7
 - **b. 8**
