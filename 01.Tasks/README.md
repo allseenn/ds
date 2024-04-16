@@ -1,4 +1,5 @@
 # Тесты
+
 1. Что из перечисленного ниже НЕЛЬЗЯ отнести к наблюдениям (данных на которых можно обучаться)?
 
 - a. Данные из анкет на заявку по кредиту
@@ -28,7 +29,7 @@
 
 5. Найдите сумму элементов получившейся матрицы:
 
-$2 \cdot A + B = 2\times \begin{pmatrix} 1 & 2 \\ 3 & 4 \\ \end{pmatrix} + \begin{pmatrix} 10 & 9 \\ 8 & 7 \\ \end{pmatrix} = 54$
+$$2 \cdot A + B = 2\times \begin{pmatrix} 1 & 2 \\ 3 & 4 \\ \end{pmatrix} + \begin{pmatrix} 10 & 9 \\ 8 & 7 \\ \end{pmatrix} = 54$$
      
 - **a. 54**
 - b. 42
@@ -37,7 +38,7 @@ $2 \cdot A + B = 2\times \begin{pmatrix} 1 & 2 \\ 3 & 4 \\ \end{pmatrix} + \begi
 
 6. Найдите сумму элементов главной диагонали у получившейся матрицы:
 
-$ A \cdot B = \begin{pmatrix} 3 & 3 & -1  \\ \end{pmatrix} \cdot \begin{pmatrix} 5 \\ 0 \\ 7 \end{pmatrix} = 8 $
+$$A \cdot B = \begin{pmatrix} 3 & 3 & -1  \\ \end{pmatrix} \cdot \begin{pmatrix} 5 \\ 0 \\ 7 \end{pmatrix} = 8$$
 
 - a. 7
 - **b. 8**

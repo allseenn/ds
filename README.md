@@ -5,5 +5,5 @@ It includes lectures, seminars and homeworks.
 
 ## 1. What is ML and its types. Linear Algebra
 
-- [Seminar]()
-- [Tasks]()
+- [Seminar](https://github.com/allseenn/ds/tree/main/01.Seminar)
+- [Tasks](https://github.com/allseenn/ds/tree/main/01.Tasks)
