@@ -7,3 +7,8 @@ It includes lectures, seminars and homeworks.
 
 - [Seminar](https://github.com/allseenn/ds/tree/main/01.Seminar)
 - [Tasks](https://github.com/allseenn/ds/tree/main/01.Tasks)
+
+## 2.  Pandas. Sklearn. Gradient descent
+
+- [Seminar](https://github.com/allseenn/ds/tree/main/02.Seminar)
+- [Tasks](https://github.com/allseenn/ds/tree/main/02.Tasks)
